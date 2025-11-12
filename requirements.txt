@@ -1,0 +1,15 @@
+# Core
+dash==2.10.2
+plotly==5.18.0
+pandas==2.1.1
+numpy==1.26.0
+scikit-learn==1.3.2
+
+# Twitter API
+tweepy==4.17.0
+
+# Sentiment Analysis
+textblob==0.17.1
+
+# Optional for extra NLP
+nltk==3.8.1
